@@ -1,0 +1,252 @@
+.header{
+    grid-column: 1/4;
+}
+.header-nav {
+    display: grid;
+    grid-template-columns: 12% 12% 12% 12% 12% 12% 12% 12% ;
+    gap: 8px;
+    }
+    .logotype{
+        float: left;
+        position: absolute;
+        margin-top: 1px;
+        left: 10px;
+    }
+   
+    .cell-a {
+         style="font-family: var(--font-family);
+font-weight: 600;
+font-size: 14px;
+line-height: 129%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #163152;
+}
+
+
+
+.cell-b {
+    style="font-family: var(--font-family);
+font-weight: 600;
+font-size: 14px;
+line-height: 129%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #163152;
+}
+.cell-c {
+    style="font-family: var(--font-family);
+font-weight: 600;
+font-size: 14px;
+line-height: 129%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #163152;
+}
+.cell-d {
+    style="font-family: var(--font-family);
+font-weight: 600;
+font-size: 14px;
+line-height: 129%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #163152;
+}
+.cell-e {
+    style="font-family: var(--font-family);
+font-weight: 600;
+font-size: 14px;
+line-height: 129%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #163152;
+}
+.cell-f {
+    style="font-family: var(--font-family);
+font-weight: 600;
+font-size: 14px;
+line-height: 129%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #163152;
+}
+
+
+.container-b{
+    display: grid;
+    grid-template-columns: 21% 21%  ;
+    gap: 112px;
+}
+.p{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 142%;
+    color: #163152;
+}
+
+
+.container-c{
+    display: grid;
+    grid-template-columns: 23% 23% 23%;
+    gap: 10px;
+  
+}
+
+.Катер Meridian 401{
+    height: 200px;
+    width: 140px;
+   
+}
+
+.Катер 60 Manhattan {
+    height: 200px;
+    width: 140px;
+}
+.Катер Starfisher 34{
+    height: 200px;
+    width: 140px;
+}
+.container-d{
+    display: grid;
+    grid-template-columns: 50%;
+    
+}
+
+.container-e{
+    display: grid;
+    
+    grid-template-columns: 400px 400px  ;
+    gap: 12px;
+}
+}
+
+
+.ph {
+    height: 300px;
+    width: 270px;
+    display: flexbox;
+    
+}
+
+    
+   
+    .containerrr{
+        display: grid;
+        grid-template-columns: 400px 400px;
+        gap: 10px;
+    }
+    .ph{
+        height: 400px;
+        width: 400px;
+    }
+    .footer-nav {
+        display: grid;
+        grid-template-columns: 15% 15% 15% 15% 15%;
+        margin-left: 60px;
+        font-family: var(--font-family);
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 129%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #163152;
+    }
+    .logo{
+        float: left;
+        position: absolute;
+        margin-bottom: 10px;
+    }
+    .cell-aa {
+        font-family: var(--font-family);
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 129%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #163152;
+    }
+    cell-bb{
+        font-family: var(--font-family);
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 129%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #163152;   
+    }
+    .ppp{
+        font-family: var(--font-family);
+font-weight: 600;
+font-size: 24px;
+line-height: 142%;
+text-align: right;
+color: #163152;
+    }
+    .poi{
+        font-family: var(--font-family);
+font-weight: 600;
+font-size: 24px;
+line-height: 142%;
+text-align: center;
+color: #163152;
+    }
+    .ol{
+        font-family: var(--font-family);
+font-weight: 600;
+font-size: 24px;
+line-height: 142%;
+color: #163152;
+    }
+    .ikl{
+        font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+color: #283c54;
+    }
+    .button{
+       background-color: #00C6BD;
+       color: white;
+       width: 380px;
+       height: 45px;
+    }
+    .ujm{
+        font-family: var(--font-family);
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+color: #163152;
+    }
+    .rfv{
+        font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 137%;
+color: #283c54;
+    }
+    .yyy{
+        font-family: var(--font-family);
+font-weight: 600;
+font-size: 14px;
+line-height: 129%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #163152;
+    }
+    .footer{
+        grid-column: 1/4;
+    }
+    .pppp{
+        font-family: var(--font-family);
+font-weight: 500;
+font-size: 20px;
+color: #163152;
+    }
+ 
+    .cell-5{
+        margin: 10px;
+    }
+    .cell-6{
+        margin: 10px;
+    }
